@@ -29,9 +29,8 @@
 					<nav id="nav">
 						<ul>
 							<li><a href="#intro" class="active">About</a></li>
-							<li><a href="#first">First Section</a></li>
-							<li><a href="#second">Second Section</a></li>
-							<li><a href="#cta">Get Started</a></li>
+							<li><a href="#first">Projects</a></li>
+							<li><a href="#footer">Contact Info</a></li>
 						</ul>
 					</nav>
 
@@ -83,12 +82,12 @@
 									</ul>
 								</footer>
 							</section>
-							
+
 				<!-- Footer -->
 					<footer id="footer">
 						<section>
-							<h2>Aliquam sed mauris</h2>
-							<p>Sed lorem ipsum dolor sit amet et nullam consequat feugiat consequat magna adipiscing tempus etiam dolore veroeros. eget dapibus mauris. Cras aliquet, nisl ut viverra sollicitudin, ligula erat egestas velit, vitae tincidunt odio.</p>
+							<h2>..</h2>
+							<p>..</p>
 							<ul class="actions">
 								<li><a href="generic.html" class="button">Learn More</a></li>
 							</ul>
