@@ -1,37 +1,124 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<!--
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Stellar by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
-You can use the [editor on GitHub](https://github.com/abcjake/abcjake.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+				<!-- Header -->
+					<header id="header" class="alt">
+						<span class="logo"><img src="images/logo.svg" alt="" /></span>
+						<h1>Hi, I'm Jake</h1>
+						<p>Welcome to my portfolio<br />
+						A brief demonstration of my projects and experience.</p>
+					</header>
 
-### Markdown
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="#intro" class="active">About</a></li>
+							<li><a href="#first">First Section</a></li>
+							<li><a href="#second">Second Section</a></li>
+							<li><a href="#cta">Get Started</a></li>
+						</ul>
+					</nav>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+				<!-- Main -->
+					<div id="main">
 
-```markdown
-Syntax highlighted code block
+						<!-- Introduction -->
+							<section id="intro" class="main">
+								<div class="spotlight">
+									<div class="content">
+										<header class="major">
+											<h2>About</h2>
+										</header>
+										<p>My name is Jake Meeker, and I am currently persuing a Master's Degree in Data Science.
+											Within the field I am passionate about sports analytics, medical data science, and 
+											any project that improves somebody's quality of life. Outside of work/school I enjoy 
+											athletics, the outdoors, playing music, gaming, and learning. 
+										</p>
+										<ul class="actions">
+											<li><a href="generic.html" class="button">Learn More About Me!</a></li>
+										</ul>
+									</div>
+									<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+								</div>
+							</section>
 
-# Header 1
-## Header 2
-### Header 3
+						<!-- First Section -->
+							<section id="first" class="main special">
+								<header class="major">
+									<h2>My Projects</h2>
+								</header>
+								<ul class="features">
+									<li>
+										<span class="icon solid major style1 fa-code"></span>
+										<h3>Finding Undervalued NBA Players</h3>
+										<p>By utilizing predictive analytics to find undervalued players within the league,
+											 sports organizations can optimize their rosters and manage their budgets more effectively </p>
+									</li>
+									<li>
+										<span class="icon major style3 fa-copy"></span>
+										<h3>Visualizing the Spread of COVID-19</h3>
+										<p>Static and dynamic visualizations providing easy-to-digest yet
+											critical information regarding the global spread of COVID-19.</p>
+									</li>
+								</ul>
+								<footer class="major">
+									<ul class="actions special">
+										<li><a href="generic.html" class="button">Learn More</a></li>
+									</ul>
+								</footer>
+							</section>
+							
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<h2>Aliquam sed mauris</h2>
+							<p>Sed lorem ipsum dolor sit amet et nullam consequat feugiat consequat magna adipiscing tempus etiam dolore veroeros. eget dapibus mauris. Cras aliquet, nisl ut viverra sollicitudin, ligula erat egestas velit, vitae tincidunt odio.</p>
+							<ul class="actions">
+								<li><a href="generic.html" class="button">Learn More</a></li>
+							</ul>
+						</section>
+						<section>
+							<h2>Contact Information</h2>
+							<dl class="alt">
+								<dt>Phone</dt>
+								<dd>(208) 530-9442</dd>
+								<dt>Email</dt>
+								<dd><a href="#">jmeeker@my365.bellevue.edu</a></dd>
+							</dl>
+							<ul class="icons">
+								<li><a href="#" class="icon brands fa-twitter alt"><span class="label">Twitter</span></a></li>
+								<li><a href="#" class="icon brands fa-github alt"><span class="label">GitHub</span></a></li>
+							</ul>
+						</section>
+						<p class="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+					</footer>
 
-- Bulleted
-- List
+			</div>
 
-1. Numbered
-2. List
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abcjake/abcjake.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	</body>
+</html>
